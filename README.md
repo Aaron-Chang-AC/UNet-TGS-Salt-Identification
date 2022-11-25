@@ -1,6 +1,6 @@
 # UNet-TGS-Salt-Identification
 ## Description
-To implement image segmentation on Kaggle 2018 TGS Salt Identification Challenge [[1]](https://www.kaggle.com/competitions/tgs-salt-identification-challenge), a pytorch version of UNet [[2]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) was built only for practicing. The model was designed to have fewer parameters than those in the original UNet model (maximal number of input channels is 64 in the designed model), and the training image size was 128.
+To implement image segmentation on Kaggle 2018 TGS Salt Identification Challenge [[1]](https://www.kaggle.com/competitions/tgs-salt-identification-challenge), a pytorch version of UNet [[2]](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) was built only for practicing. The model was designed to have fewer parameters than those in the original UNet model (the maximal number of input channels was 64 in the designed model), and the training image size was 128.
 ## Training Samples and Model Predictions
 |Original Image|Ground Truth|Prediction|  
 |-----|-----|-----|  

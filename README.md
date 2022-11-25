@@ -5,7 +5,6 @@ To implement image segmentation on Kaggle 2018 TGS Salt Identification Challenge
 |Original Image|Ground Truth|Prediction|  
 |-----|-----|-----|  
 |![image_1](/images/image_1.png) | ![image_1](/images/image_1_true.png) | ![image_1](/images/image_1_predict.png) |  
-|-----|-----|-----|  
 |![image_2](/images/image_2.png) | ![image_1](/images/image_2_true.png) | ![image_1](/images/image_2_predict.png) |  
 ## Reference
 [[1] Kaggle 2018 TGS Salt Identification Challenge](https://www.kaggle.com/competitions/tgs-salt-identification-challenge)  
